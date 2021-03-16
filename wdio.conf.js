@@ -1,3 +1,10 @@
+/*
+ * Copyright (c) 2021, salesforce.com, inc.
+ * All rights reserved.
+ * SPDX-License-Identifier: MIT.
+ * For full license text, see LICENSE.txt file in the repo root or https://opensource.org/licenses/MIT
+ */
+
 const { UtamWdioService } = require('wdio-utam-service');
 const PORT = process.env.PORT || 8080;
 
