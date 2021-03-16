@@ -1,3 +1,10 @@
+/*
+ * Copyright (c) 2021, salesforce.com, inc.
+ * All rights reserved.
+ * SPDX-License-Identifier: MIT.
+ * For full license text, see LICENSE.txt file in the repo root or https://opensource.org/licenses/MIT
+ */
+
 // Import a PageObject from within the package
 import LwcDevHomePage from 'utam-oss-boilerplate/pageObjects/lwc-home';
 
